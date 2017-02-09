@@ -1,4 +1,4 @@
-class subversion19utf8mac < Formula
+class Subversion19utf8mac < Formula
   desc "Version control system designed to be a better CVS"
   homepage "https://subversion.apache.org/"
   url "https://www.apache.org/dyn/closer.cgi?path=subversion/subversion-1.9.5.tar.bz2"
